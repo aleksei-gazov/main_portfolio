@@ -1,0 +1,19 @@
+.mainBlock {
+    height: 100%; /*потом исправить на %*/
+    background-color: aquamarine;
+
+}
+
+
+
+.text {
+    width: 300px;
+    /*border: 1px solid;*/
+    background-color: greenyellow;
+}
+.photo {
+    width: 300px;
+    height: 400px;
+    /*border: 2px solid;*/
+    background-color: greenyellow;
+}
