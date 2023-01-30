@@ -9,11 +9,11 @@
 .text {
     width: 300px;
     /*border: 1px solid;*/
-    background-color: greenyellow;
+    background-color:#252839;
 }
 .photo {
     width: 300px;
     height: 400px;
     /*border: 2px solid;*/
-    background-color: greenyellow;
+    background-color: #292c3f;
 }
