@@ -1,6 +1,6 @@
 .MyWorksBlock {
     height: 100%;
-    background-color: darkred;
+    background-color: #f2b632;
 }
 
 .MyWorksContainer {
@@ -8,7 +8,7 @@
     flex-direction: column;
 }
 .title {
-    background-color: aqua;
+    background-color: #f2b632;
 }
 .work {
     border: 1px solid;

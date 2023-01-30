@@ -6,6 +6,7 @@ import Skills from './component/skills/Skills';
 import My_works from './component/ my_works/My_works';
 import RemoteWork from './component/ RemoteWork/RemoteWork';
 import Contacts from './component/contacts/Contacts';
+import Footer from './component/footer/Footer';
 // import Contacts from './component/ сontacts/Contacts';
 
 const App = () => {
@@ -17,7 +18,7 @@ const App = () => {
             <My_works/>
             <RemoteWork/>
             <Contacts/>
-            {/* <Contacts/> */}
+            <Footer/>
         </div>
     );
 }
