@@ -1,6 +1,6 @@
 .mainBlock {
     height: 100%; /*потом исправить на %*/
-    background-color: #f2b632;
+    background-color: #f8f9fa;
 
 }
 
@@ -9,11 +9,11 @@
 .text {
     width: 300px;
     /*border: 1px solid;*/
-    background-color:#252839;
+    background-color:#858792;
 }
 .photo {
     width: 300px;
     height: 400px;
     /*border: 2px solid;*/
-    background-color: #292c3f;
+    background-color: #6c757d;
 }
