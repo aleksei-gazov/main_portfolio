@@ -5,16 +5,16 @@ import c from '../../comman/styles/Container.module.css'
 
 const Contacts = () => {
     return (
-        <div className={s.contactsBlock}>
+        <div id={'contacts'} className={s.contactsBlock}>
             <div className={c.container}>
               <div className={s.content}>
               <h2>contacts</h2>
               <form className={s.form} action="">
-                <input type="text"/>
-                <input type="text"/>
-                <input type="text"/>
+                <input className={s.input} type="text"/>
+                <input className={s.input} type="text"/>
+                  <textarea className={s.textarea}/>
+                  <input className={s.button} value={'send'} type="button"/>
               </form>
-                <button className={s.button}>send</button>
               </div>
                 
             </div>

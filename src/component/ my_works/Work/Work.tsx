@@ -1,5 +1,6 @@
 import React from 'react';
-import s from './Work.module.css'
+// @ts-ignore
+import s from "./Work.module.css"
 
 type WorkPropsType = {
     title: string

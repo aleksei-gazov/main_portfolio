@@ -5,7 +5,7 @@ import c from '../../comman/styles/Container.module.css'
 
 const Footer = () => {
     return (
-        <div className={s.footerBlock}>
+        <div  className={s.footerBlock}>
             <div className={c.container}>
               <div className={s.content}>
               <h2>Aliaksei Hazau</h2>

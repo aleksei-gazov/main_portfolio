@@ -1,10 +1,9 @@
 .mainBlock {
-    height: 100%; /*потом исправить на %*/
+
+    height: 100vh; /*потом исправить на %*/
     background-color: #f8f9fa;
 
 }
-
-
 
 .text {
     width: 300px;

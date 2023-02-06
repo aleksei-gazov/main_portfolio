@@ -4,12 +4,12 @@ import c from '../../comman/styles/Container.module.css'
 
 const Main = () => {
     return (
-        <div className={s.mainBlock}>
+        <div id={'main'} className={s.mainBlock}>
             <div className={c.container}>
                 <div className={s.text}>
-                    <span>Portfolio</span>
+                    <span>Main Portfolio</span>
                     <h1>Main name Aleks</h1>
-                    <p>Frontend Developer
+                    <p>I`m frontend developer
                     </p>
                 </div>
                 <div className={s.photo}>

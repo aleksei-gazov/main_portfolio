@@ -4,10 +4,10 @@ import s from './Nav.module.css'
 const Nav = () => {
     return (
         <div className={s.nav}>
-            <a className={s.link} href="src/component/nav">Главная</a>
-            <a className={s.link} href="src/component/nav">Скилы</a>
-            <a className={s.link} href="src/component/nav">Проекты</a>
-            <a className={s.link} href="src/component/nav">Контакты</a>
+            <a className={s.link} href="#main">Главная</a>
+            <a className={s.link} href="#skills">Скилы</a>
+            <a className={s.link} href="#progect">Проекты</a>
+            <a className={s.link} href="#contacts">Контакты</a>
         </div>
     );
 };

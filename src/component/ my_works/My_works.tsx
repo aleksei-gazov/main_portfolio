@@ -5,7 +5,7 @@ import Work from './Work/Work';
 
 const MyWorks = () => {
     return (
-        <div className={s.MyWorksBlock}>
+        <div id={'progect'} className={s.MyWorksBlock}>
             <div className={`${c.container} ${s.MyWorksContainer}`}>
                 <h2 className={s.title}>My works</h2>
                 <div className={s.work}>

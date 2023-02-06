@@ -7,7 +7,7 @@ import c from '../../comman/styles/Container.module.css'
 const Header = () => {
     return (
         <div className={s.header}>
-              <div className={c.container}>
+              <div className={s.headerContainer}>
             <Nav/>
         </div>
         </div>
@@ -15,3 +15,4 @@ const Header = () => {
 };
 
 export default Header;
+
